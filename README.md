@@ -1,6 +1,6 @@
 # Laravel Hands On
 
-This repository aims to provide a learning resource for people who are interested in learning Laravel.
+This repository is all about basics of Laravel.
 
 ## Description
 
